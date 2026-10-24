@@ -1,0 +1,2 @@
+app,keyword,astro_popularity,astro_difficulty,current_rank,google_volume,google_difficulty,tag,use_for,note
+Your App Name,example keyword,,,,,,BOTH|ASO_ONLY|SEO_ONLY|SKIP,title|subtitle|keyword field|landing page|blog,"store=us; Astro updated YYYY-MM-DD; Google: <tool>, <geo>, <date>; provisional/no data flags; rank 1000 = not in charts"
